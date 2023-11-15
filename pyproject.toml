@@ -26,6 +26,7 @@ exclude = [
 python = "^3.9"
 rpmautospec_core = "^0.1.0"
 rpmautospec = { git = "https://github.com/fedora-infra/rpmautospec.git", branch = "main" }
+koji = "^1.33.0"
 
 [tool.poetry.dev-dependencies]
 pytest = "^6.2.2 || ^7"
