@@ -23,7 +23,7 @@ exclude = [
 
 [tool.poetry.dependencies]
 python = "^3.9"
-rpmautospec_core = { git = "https://github.com/fedora-infra/rpmautospec-core.git", branch = "main" }
+rpmautospec_core = "^0.1.0"
 rpmautospec = { git = "https://github.com/fedora-infra/rpmautospec.git", branch = "main" }
 
 [tool.poetry.dev-dependencies]
