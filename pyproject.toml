@@ -29,7 +29,7 @@ rpmautospec = { git = "https://github.com/fedora-infra/rpmautospec.git", branch 
 koji = "^1.33.0"
 
 [tool.poetry.dev-dependencies]
-pytest = "^6.2.2 || ^7"
+pytest = "^6.2.2 || ^7 || ^8.0.0"
 pytest-cov = "^4.0.0"
 
 [tool.black]
