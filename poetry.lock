@@ -665,7 +665,7 @@ rpmautospec_core = "^0.1.4"
 type = "git"
 url = "https://github.com/fedora-infra/rpmautospec.git"
 reference = "main"
-resolved_reference = "440331dc60ed3115e392c109f51994de5289f4ef"
+resolved_reference = "284dc620155b96591a6aaf3996f56cb3c90cbc3c"
 
 [[package]]
 name = "rpmautospec-core"
