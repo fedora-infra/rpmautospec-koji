@@ -470,7 +470,7 @@ dev = ["black (==24.2.0)", "isort (==5.13.2)", "pytest", "tox (>=4.0.0)"]
 
 [[package]]
 name = "rpmautospec"
-version = "0.8.2"
+version = "0.8.3"
 description = "A package and CLI tool to generate RPM release fields and changelogs."
 optional = false
 python-versions = "<4.0,>=3.9"
@@ -490,7 +490,7 @@ rpm = ["rpm"]
 type = "git"
 url = "https://github.com/fedora-infra/rpmautospec.git"
 reference = "main"
-resolved_reference = "646732c8307092dbc54221c86dddf1c5e703cc66"
+resolved_reference = "88def1e459de8783c075541a59bf96bd323af9ee"
 
 [[package]]
 name = "rpmautospec-core"
