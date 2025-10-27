@@ -531,16 +531,16 @@ develop = false
 rpmautospec-core = ">=0.1.4,<1.0.0"
 
 [package.extras]
-all = ["click (>=8,<9)", "pygit2 (>=1.4.0,<1.18.3)", "pygit2 (>=1.4.0,<2.0.0)", "rpm"]
+all = ["click (>=8,<9)", "pygit2 (>=1.4.0,<1.19.1)", "pygit2 (>=1.4.0,<2.0.0)", "rpm"]
 click = ["click (>=8,<9)"]
-pygit2 = ["pygit2 (>=1.4.0,<1.18.3)", "pygit2 (>=1.4.0,<2.0.0)"]
+pygit2 = ["pygit2 (>=1.4.0,<1.19.1)", "pygit2 (>=1.4.0,<2.0.0)"]
 rpm = ["rpm"]
 
 [package.source]
 type = "git"
 url = "https://github.com/fedora-infra/rpmautospec.git"
 reference = "main"
-resolved_reference = "e449074b2276a5367a983c90862b55607cdb5009"
+resolved_reference = "2c5fd781f3c490dda7c969420b0dcae7abaade35"
 
 [[package]]
 name = "rpmautospec-core"
